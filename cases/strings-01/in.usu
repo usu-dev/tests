@@ -1,0 +1,10 @@
+(
+  :unquoted this string has no quotes
+  :quoted `this string has double " and ' quotes`
+  :newline
+    this string will
+    contain newlines
+  :oneline >
+    this string will
+    not contain newlines
+)
