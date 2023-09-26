@@ -1,5 +1,5 @@
-(>
+[>
   "A folded list"
   newlines `don't` matter
   all items are "one item"
-)
+]

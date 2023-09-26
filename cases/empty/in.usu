@@ -1,4 +1,4 @@
-(
-  :empty-map (:)
-  :empty-list ()
-)
+{
+  :empty-map {}
+  :empty-list []
+}

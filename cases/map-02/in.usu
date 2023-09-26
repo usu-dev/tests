@@ -1,5 +1,5 @@
-(
- :level-one (
-   :level-two (:level-three value)
- )
-)
+{
+ :level-one {
+   :level-two {:level-three value}
+ }
+}

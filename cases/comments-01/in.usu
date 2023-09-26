@@ -1,9 +1,9 @@
 # a comment
-(
+{
   :key value
   #:comment-key comment-value
   :trailing-comment value # trailing commas acceptable
   #( block comment start
     :block-comment-key block-comment-value
   )#
-)
+}
