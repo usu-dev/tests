@@ -1,0 +1,6 @@
+(
+  :array-of-maps (
+    (:map (:key value))
+    (:another-map (:key value))
+  )
+)
