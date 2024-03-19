@@ -1,0 +1,4 @@
+# this newline should be expanded by the lexer
+:newlines string that contains an escaped \n
+:another-version `these controls sequences are valid\nin regular strings as well`
+
