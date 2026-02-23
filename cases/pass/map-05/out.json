@@ -1,0 +1,9 @@
+{
+  "nesting": {
+    "key": "val",
+    "key2": "val2",
+    "deeper": {
+      "key": "deeper val"
+    }
+  }
+}

@@ -1,0 +1,5 @@
+.nesting.key val
+.nesting.deeper.key deeper val
+.nesting {
+  .key2 val2
+}

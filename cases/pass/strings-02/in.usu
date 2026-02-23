@@ -1,0 +1,4 @@
+.period a string with a period.
+.hidden-file ".gitignore" # one example of a possible string that starts with a period.
+.url https://github.com/usu-dev
+
