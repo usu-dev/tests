@@ -1,0 +1,17 @@
+.level1 {
+  .level2 {
+    .level3 {
+      .key3 some value
+    }
+  }
+}
+
+.level1.level2 {
+  .key2 some value
+}
+
+.level1.level2.level3 {
+  .key3-2 some value
+}
+
+.level1.level2.level4.key4 some value

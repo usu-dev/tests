@@ -1,0 +1,14 @@
+{
+  "level1": {
+    "level2": {
+      "level3": {
+        "key3": "some value",
+        "key3-2": "some value"
+      },
+      "key2": "some value",
+      "level4": {
+        "key4": "some value"
+      }
+    }
+  }
+}
