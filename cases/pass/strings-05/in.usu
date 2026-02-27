@@ -1,0 +1,7 @@
+.multiline-string `
+  multine string using quotes, after parsing if it starts with a newline
+  then we should dedent it
+  `
+.multiline-string2 "this is another multine-string
+  but it shouldn't be dedented"
+

@@ -1,0 +1,4 @@
+{
+  "multiline-string": "multine string using quotes, after parsing if it starts with a newline\nthen we should dedent it\n",
+  "multiline-string2": "this is another multine-string\n  but it shouldn't be dedented"
+}
