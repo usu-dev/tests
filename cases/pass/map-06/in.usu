@@ -15,3 +15,5 @@
 }
 
 .level1.level2.level4.key4 some value
+
+."level1.level2.level3.level4" value
