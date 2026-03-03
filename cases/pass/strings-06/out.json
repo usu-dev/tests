@@ -1,0 +1,5 @@
+{
+  "key": "string with newline: \n",
+  "key2": "raw string with 'newline':\\n",
+  "key3": "raw string without quotes and newline: \n"
+}
