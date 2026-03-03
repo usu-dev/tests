@@ -1,4 +1,5 @@
 {
   .empty-map {}
   .empty-list []
+  .empty-value null
 }
