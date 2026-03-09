@@ -1,0 +1,7 @@
+{
+  "first": "this is a value without newline",
+  "first-newlines": "this is a value with newline\nthis seconds line should end in newline also\n",
+  "second": "this is a value but\nit ends with and includes newlines\n",
+  "third": "the first char after the key is ' ' not a newline,\nbut it should still be in RespectNewlinesMode\n",
+  "fourth": "this is a value that starts with several newlines\nbut it shouldn't have a starting newline\n"
+}
