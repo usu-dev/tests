@@ -1,1 +1,1 @@
-failed to merge values for repeated key: "key", kinds must match expected: "UsuValue", but got: "UsuMap" at pos: 16
+failed to set value for key: "key", can't merge nodes with mismatched kinds UsuValue != UsuMap at pos: 16

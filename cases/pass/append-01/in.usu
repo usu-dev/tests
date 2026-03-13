@@ -1,0 +1,22 @@
+.key+ 1
+.key+ 2
+.key+ 3
+.key+ 4
+
+.key2+ {.key val}
+.key2+ {.key val}
+
+.key3.key [value]
+.key3.key+ second value
+
+.key3.key [
+  third value
+]
+
+.key3 {
+  .key+ fourth!
+}
+
+.key4.key+ {.key val}
+.key4.key [merged]
+.key4.key [[merged again]]

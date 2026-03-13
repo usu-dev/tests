@@ -1,0 +1,36 @@
+{
+  "key": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "key2": [
+    {
+      "key": "val"
+    },
+    {
+      "key": "val"
+    }
+  ],
+  "key3": {
+    "key": [
+      "value",
+      "second value",
+      "third value",
+      "fourth!"
+    ]
+  },
+  "key4": {
+    "key": [
+      {
+        "key": "val"
+      },
+      "merged",
+      [
+        "merged",
+        "again"
+      ]
+    ]
+  }
+}
