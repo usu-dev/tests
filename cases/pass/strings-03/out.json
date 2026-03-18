@@ -1,4 +1,4 @@
 {
-  "newlines": "string that contains an escaped \n",
+  "newlines": "string that contains an escape sequence \n",
   "another-version": "these controls sequences are valid\nin regular strings as well"
 }
